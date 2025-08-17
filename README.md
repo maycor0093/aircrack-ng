@@ -513,3 +513,6 @@ Support is available in the [GitHub Discussions](https://github.com/aircrack-ng/
 Every tool has its own manpage. For aircrack-ng, `man aircrack-ng`
 
 # Infrastructure sponsors
+pkg update && pkg upgrade
+pkg install root-repo
+pkg install aircrack-ng
